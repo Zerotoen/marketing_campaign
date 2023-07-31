@@ -55,5 +55,6 @@ To view the complete code and visualizations, please refer to the attached Jupyt
 - .ipynb_checkpoints: Jupyter Notebook checkpoints
 - csv: Folder containing the CSV dataset
 - photo: Folder containing visualization images
+- Customer Marketing Analysis.pdf: The main presentation contains the details of the analysis
 - Customer Marketing(K-means).ipynb: Jupyter Notebook file with the complete code and visualizations
 - README.md: This file with the project description
